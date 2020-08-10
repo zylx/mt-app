@@ -6,7 +6,7 @@
         mt-app
       </h1>
       <h2 class="subtitle">
-        meituan app
+        My classy Nuxt.js project
       </h2>
       <div class="links">
         <a
